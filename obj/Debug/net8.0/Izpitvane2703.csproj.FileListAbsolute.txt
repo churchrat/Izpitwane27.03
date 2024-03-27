@@ -1,0 +1,14 @@
+C:\Михаил Кръстев 9а\Izpitvane2703\bin\Debug\net8.0\Izpitvane2703.exe
+C:\Михаил Кръстев 9а\Izpitvane2703\bin\Debug\net8.0\Izpitvane2703.deps.json
+C:\Михаил Кръстев 9а\Izpitvane2703\bin\Debug\net8.0\Izpitvane2703.runtimeconfig.json
+C:\Михаил Кръстев 9а\Izpitvane2703\bin\Debug\net8.0\Izpitvane2703.dll
+C:\Михаил Кръстев 9а\Izpitvane2703\bin\Debug\net8.0\Izpitvane2703.pdb
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.GeneratedMSBuildEditorConfig.editorconfig
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.AssemblyInfoInputs.cache
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.AssemblyInfo.cs
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.csproj.CoreCompileInputs.cache
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.dll
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\refint\Izpitvane2703.dll
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.pdb
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\Izpitvane2703.genruntimeconfig.cache
+C:\Михаил Кръстев 9а\Izpitvane2703\obj\Debug\net8.0\ref\Izpitvane2703.dll
